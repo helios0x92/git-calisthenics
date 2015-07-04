@@ -2,4 +2,4 @@
 "Knock, Knock"
 "Git!"
 "Git Who?"
-"Git this joke over with."
+"Git on with the assignment!"
